@@ -417,6 +417,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = G7SR6JMJ25;
 				INFOPLIST_FILE = CalendarEx/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.self.CalendarEx;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -430,6 +431,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = G7SR6JMJ25;
 				INFOPLIST_FILE = CalendarEx/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.self.CalendarEx;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -514,6 +516,7 @@
 				37F0D8B11E28DBFC00469E73 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		37F0D8B21E28DBFC00469E73 /* Build configuration list for PBXNativeTarget "CalendarExTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +525,7 @@
 				37F0D8B41E28DBFC00469E73 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		37F0D8B51E28DBFC00469E73 /* Build configuration list for PBXNativeTarget "CalendarExUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +534,7 @@
 				37F0D8B71E28DBFC00469E73 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
